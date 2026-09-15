@@ -4,7 +4,7 @@
 
 ### Java Backend Developer
 
-*Spring Boot · PostgreSQL · Docker*
+*PostgreSQL · Docker*
 
 Пишу backend-сервисы на Java. Люблю чистый код и понятную архитектуру.
 Открыт к предложениям о работе.
@@ -20,13 +20,13 @@
 ## 🛠 Стек
 
 **Язык и фреймворки**
-`Java` · `Spring Boot` · `Spring Security` · `Hibernate`
+`Java` ·
 
 **Данные и очереди**
-`PostgreSQL` · `Redis` · `Kafka`
+`PostgreSQL` 
 
 **Инструменты**
-`Docker` · `Git` · `GitHub Actions` · `JUnit 5`
+`Docker` · `Git` · 
 
 </div>
 
