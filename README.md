@@ -1,6 +1,6 @@
 <div align="center">
 
-# Привет, я Шайхулин Артём 👋
+# Привет, я Артём 👋
 
 ### Java Backend Developer
 
