@@ -1,7 +1,5 @@
 <div align="center">
 
-# Привет, я Артём 👋
-
 ### Java Backend Developer
 
 *PostgreSQL · Docker*
